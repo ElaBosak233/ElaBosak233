@@ -1,6 +1,6 @@
 ## Hi, Here is Ela, Just Ela!
 
-![Ela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaBosak233)
+![Ela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaBosak233&show_icons=true)
 
 <!--
 **ElaBosak233/ElaBosak233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
