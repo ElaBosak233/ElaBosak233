@@ -10,11 +10,11 @@ My name is **Ela**, a very **general** senior high school **student** programmer
 
 ## Contact
 
-**Email:** Ela@ElaBosak.CN / ElaBosak233@Gmail.com
+**Email** Ela@ElaBosak.CN / ElaBosak233@Gmail.com
 
-**Twitter:** [@ElaBosakCN](https://twitter.com/ElaBosakCN)
+**Twitter** [@ElaBosakCN](https://twitter.com/ElaBosakCN)
 
-**Telegram:** [@ElaBosak233](https://t.me/ElaBosak233)
+**Telegram** [@ElaBosak233](https://t.me/ElaBosak233)
 <!--
 **ElaBosak233/ElaBosak233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
