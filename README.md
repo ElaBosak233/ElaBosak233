@@ -10,7 +10,7 @@ My name is **Ela**, a very **general** senior high school **student** programmer
 
 ## Contact
 
-**Email** Ela@ElaBosak.CN / ElaBosak233@Gmail.com
+**Email** Elzbieta@ela.ac.cn / ElaBosak233@gmail.com
 
 **Twitter** [@ElaBosakCN](https://twitter.com/ElaBosakCN)
 
