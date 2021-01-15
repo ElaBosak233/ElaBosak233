@@ -1,4 +1,4 @@
-# Hi, Here is Ela, Just Ela!
+# Hi, Here is Ela 🍀
 
 ## Introduction
 
