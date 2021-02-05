@@ -8,6 +8,11 @@ My name is **Ela**, a very **general** senior high school **student** programmer
 
 ![Ela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaBosak233&show_icons=true)
 
+## Projects
+
+**Valkyrie** version 2.0.0 is working now.
+**EusAuthy** is working until 2021/2/28.
+
 ## Contact
 
 **Email** Elzbieta@ela.ac.cn / ElaBosak233@gmail.com
