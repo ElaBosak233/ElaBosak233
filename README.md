@@ -26,8 +26,6 @@ My name is **Ela**, a very **general** senior high school **student** programmer
 
 **Valkyrie** version 2.0.0 is working now.
 
-**EusAuthy** is working until 2021/2/28.
-
 ## Contact
 
 **Email** Elzbieta@ela.ac.cn / ElaBosak233@gmail.com
@@ -35,18 +33,3 @@ My name is **Ela**, a very **general** senior high school **student** programmer
 **Twitter** [@ElaBosakCN](https://twitter.com/ElaBosakCN)
 
 **Telegram** [@ElaBosak233](https://t.me/ElaBosak233)
-
-<!--
-**ElaBosak233/ElaBosak233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
