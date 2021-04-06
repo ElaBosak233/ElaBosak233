@@ -28,7 +28,7 @@ My name is **Ela**, a very **general** senior high school **student** programmer
 
 ## Contact
 
-**Email** Elzbieta@ela.ac.cn / ElaBosak233@gmail.com
+**Email** ElaBosak233@e23.in
 
 **Twitter** [@ElaBosakCN](https://twitter.com/ElaBosakCN)
 
