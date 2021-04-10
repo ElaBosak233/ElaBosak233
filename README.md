@@ -30,6 +30,6 @@ My name is **Ela**, a very **general** senior high school **student** programmer
 
 **Email** ElaBosak233@e23.in
 
-**Twitter** [@ElaBosakCN](https://twitter.com/ElaBosakCN)
+**Twitter** [@ElaBosak233](https://twitter.com/ElaBosak233)
 
 **Telegram** [@ElaBosak233](https://t.me/ElaBosak233)
