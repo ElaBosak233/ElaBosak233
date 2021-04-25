@@ -26,7 +26,7 @@ My name is **Ela**, a very **general** senior high school **student** programmer
 
 **Valkyrie** version 2.0.0 is working now.
 
-An powerful [**Application Programming Interface**](https://gtihub.com/ElaBosak233/Api) is coming.
+An powerful [**Application Programming Interface**](https://github.com/ElaBosak233/Api) is coming.
 
 ## Contact
 
