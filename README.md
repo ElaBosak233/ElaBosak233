@@ -21,20 +21,17 @@ My name is **Ela**, a very **general** senior high school **student** programmer
 ## Github Stats
 
 ![Ela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaBosak233&show_icons=true)
-
-## Projects
-
-**Valkyrie** version 2.0.0 is working now.
-
-A powerful [**Application Programming Interface**](https://github.com/ElaBosak233/Api) is coming.
-
-## Contact
-
-**Email** ElaBosak233@e23.in
-
-**Twitter** [@ElaBosak233](https://twitter.com/ElaBosak233)
-
-**Telegram** [@ElaBosak233](https://t.me/ElaBosak233)
+  
+> POST 2021.08.16
+> Believe me, [`ecoFramework`](https://github.com/ElaBosak233/eco.git) is coming right up.
+> ```
+                     ___________                                                __    
+  ____   ____  ____\_   _____/___________    _____   ______  _  _____________|  | __
+_/ __ \_/ ___\/  _ \|    __) \_  __ \__  \  /     \_/ __ \ \/ \/ /  _ \_  __ \  |/ /
+\  ___/\  \__(  <_> )     \   |  | \// __ \|  Y Y  \  ___/\     (  <_> )  | \/    < 
+ \___  >\___  >____/\___  /   |__|  (____  /__|_|  /\___  >\/\_/ \____/|__|  |__|_ \
+     \/     \/          \/               \/      \/     \/                        \/
+  ```
   
 <!--div align="right">
   <img src="https://i.loli.net/2021/08/16/rZ1UEazx46pdWeK.png" width=30% height=30%> 
