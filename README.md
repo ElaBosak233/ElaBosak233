@@ -36,6 +36,6 @@ A powerful [**Application Programming Interface**](https://github.com/ElaBosak23
 
 **Telegram** [@ElaBosak233](https://t.me/ElaBosak233)
   
-<div align="right">
+<!--div align="right">
   <img src="https://i.loli.net/2021/08/16/rZ1UEazx46pdWeK.png" width=30% height=30%> 
-</div>
+</div-->
